@@ -1,3 +1,7 @@
+
+# git-recipes
+Recetas GIT útiles - Curso GIT Avanzado
+
 # 📘 Recetario de Git
 
 Este repositorio contiene una colección de recetas útiles para mejorar tu flujo de trabajo con Git.
