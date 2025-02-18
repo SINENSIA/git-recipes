@@ -15,5 +15,5 @@ Este repositorio contiene una colección de recetas útiles para mejorar tu fluj
 - **[Solución de problemas](troubleshooting.md)**: Errores comunes y cómo resolverlos.
 
 ## 🔗 Accede a la documentación en GitHub Pages
-[https://tuusuario.github.io/git-recipes/](https://tuusuario.github.io/git-recipes/)
+[https://SINENSIA.github.io/git-recipes/](https://SINENSIA.github.io/git-recipes/)
 
