@@ -9,7 +9,8 @@ Bienvenido a este recopilatorio de recetas útiles para mejorar tu uso de Git.
 - 📝 [Commits y revertir cambios](commits.md)
 - 🌍 [Sincronización con remoto](push_pull.md)
 - ❌ [Solución de problemas](troubleshooting.md)
-
+- 🛠️ [Configuración y personalización](config.md)
+- 📌 [Personalizar la salida de `git log`](log.md)
 Cada sección contiene comandos y ejemplos prácticos.
 
 ---
